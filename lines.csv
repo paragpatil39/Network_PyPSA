@@ -1,0 +1,4 @@
+name,bus0,bus1,s_nom,s_nom_extendable,length
+0,no_de,ost_de,12,FALSE,400
+1,ost_de,west_de,12,FALSE,400
+2,west_de,no_de,12,FALSE,400
